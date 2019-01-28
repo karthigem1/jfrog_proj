@@ -86,8 +86,8 @@
                                 <username>admin</username>
                                 <password>admin</password>
                                 <excludePatterns>*-tests.jar</excludePatterns>
-                                <repoKey>jfrog_proj</repoKey>
-                                <snapshotRepoKey>jfrog_proj</snapshotRepoKey>
+                                <repoKey>maven-demo</repoKey>
+                                <snapshotRepoKey>maven-demo</snapshotRepoKey>
                             </publisher>
                             <buildInfo>
                                 <buildName>plugin-demo</buildName>
